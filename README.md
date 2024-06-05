@@ -9,5 +9,3 @@
 - Iris Loret
 - Emre Ekici
 - Jana Cle
-
-## URL: [lsta.24vii.be/](https://lsta.24vii.be/)
