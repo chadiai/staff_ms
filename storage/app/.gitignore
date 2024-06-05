@@ -1,0 +1,7 @@
+*
+!public/
+!.gitignore
+!StaffManagementDocuments/
+!StaffManagementDocuments/Documents
+!StaffManagementDocuments/Documents/Files
+!StaffManagementDocuments/Documents/Invoices
